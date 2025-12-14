@@ -50,3 +50,4 @@ These libraries are essential for loading and utilizing the GPT-2 model.
 ### File Description:
 - **text_generator.py**  
   Python script that loads the GPT-2 model and generates text based on user prompts.
+<img width="1552" height="932" alt="Image" src="https://github.com/user-attachments/assets/7b848b4e-49d7-492c-9ed7-7f424f62736e" />
